@@ -73,11 +73,13 @@ Designing dashboards for decision-making
 Applying business intelligence concepts using Excel
 
 ## **📂 Folder Structure**
+```
 📁 Excel-Dashboards/
 │── Ecommerce-Excel Dashboard.xlsx
 │── Customer-Asset Dashboard.xlsx
 │── Sales-Dashboard-Practice.xlsx
 │── README.md
+```
 
 ## **📬 Contact**
 
